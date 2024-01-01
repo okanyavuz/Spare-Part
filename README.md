@@ -14,9 +14,9 @@ Spare Part is an assembly simulation game where players receive customer request
 ## In-game screenshots
 
 <div style="display:flex;">
-<img src="https://github.com/okanyavuz/Spare-Part/assets/74764950/e3cba109-2211-439c-b73f-4fe8363be34d" width=33%>
-<img src="https://github.com/okanyavuz/Spare-Part/assets/74764950/e92a2c1f-7c13-4ea8-984c-8c13f6fb3194" width=33%>
-<img src="https://github.com/okanyavuz/Spare-Part/assets/74764950/b276d02a-69cb-4fcb-b6bd-e9a0e070242b" width=33%>
+<img src="https://github.com/okanyavuz/Spare-Part/assets/74764950/e3cba109-2211-439c-b73f-4fe8363be34d" width=30%>
+<img src="https://github.com/okanyavuz/Spare-Part/assets/74764950/e92a2c1f-7c13-4ea8-984c-8c13f6fb3194" width=30%>
+<img src="https://github.com/okanyavuz/Spare-Part/assets/74764950/b276d02a-69cb-4fcb-b6bd-e9a0e070242b" width=30%>
 </div>
 
 ### Contribution
